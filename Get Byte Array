@@ -1,0 +1,1 @@
+val byteArray = generateQRCodeStream("Hello World").toByteArray()
