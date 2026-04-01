@@ -1,0 +1,3 @@
+fun main() {
+    saveQRCode("your_lehman_email@lehman.cuny.edu", "my_email.png")
+}
