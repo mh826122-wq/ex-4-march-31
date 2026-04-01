@@ -1,0 +1,9 @@
+fun main() {
+    io.ktor.server.netty.EngineMain.main(emptyArray())
+}
+
+fun Application.module() {
+    routing {
+        qrRoute()
+    }
+}
